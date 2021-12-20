@@ -10,9 +10,9 @@ const Header = () => {
                     </a>
                 </div>
                 <div class="s-grid-1 lg-cols-3 s-cross-center s-main-end header-links">
-          <nav className="main-menu" id="main-menu">
+          <nav className="main-menu " id="main-menu">
             <ul>
-              <li><a href="https://www.starwars.com" target="_blank">Inicio</a></li>
+              <li ><a href="https://www.starwars.com" target="_blank">Inicio</a></li>
             </ul>
           </nav>
           <div class="main-menu-toggle to-l" id="main-menu-toggle"></div>
