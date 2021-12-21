@@ -1,7 +1,7 @@
-@import "~ed-grid/ed-grid";
+@import 'node_modules/ed-grid/ed-grid';
 @import "~edteam-style-guides/edteam-style-guides";
 
-@include prototype('white-color', color, white);
+
 
 body{
     background: radial-gradient(circle at 0% 100%, #faffff 0, #d8f0fa 25%, #b5def2 50%, #92cbeb 75%, #72b9e5 100%);
@@ -18,3 +18,7 @@ body{
     color: white;
 }
 
+img{
+    height: 480px;
+    
+}
