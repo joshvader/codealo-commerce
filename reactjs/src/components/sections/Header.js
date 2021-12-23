@@ -13,6 +13,8 @@ const Header = () => {
           <nav className="main-menu" id="main-menu">
             <ul>
               <li ><a  href="https://www.starwars.com" target="_blank">Inicio</a></li>
+              <li ><a  href="https://www.starwars.com" target="_blank">Productos</a></li>
+              <li ><a  href="https://www.starwars.com" target="_blank">Nosotros</a></li>
             </ul>
           </nav>
           <div class="main-menu-toggle to-l" id="main-menu-toggle"></div>
