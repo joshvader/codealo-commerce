@@ -101,7 +101,8 @@
 }
 .container .container__content .container__content__listBurgers {
   display: flex;
-  flex-flow: row;
+  flex-basis: 0;
+  flex-wrap: wrap;
   min-width: 100vw;
   align-content: center;
   align-items: center;
@@ -113,7 +114,7 @@
   align-content: center;
   align-items: center;
   justify-content: space-between;
-  margin: 0;
+  margin: 9px;
   padding: 10px;
   width: 200px;
   min-height: 200px;
@@ -165,7 +166,7 @@
   cursor: pointer;
   color: white;
   border: 0;
-  background-color: red;
+  background-color: rgb(102, 97, 97);
   text-shadow: 1px 0px #111;
   font-family: "Alfa Slab One", cursive;
   font-size: 1.4rem;

@@ -2,27 +2,27 @@ import React, {Fragment, useState} from 'react';
 import Cart from './components/sections/Cart';
 import Carusel from "./components/sections/Carusel";
 import Header from "./components/sections/Header";
-
+import Product from './components/sections/Product';
 
 import "./styles/styles.css"
 
 //IMPORT IMAGENES
-import Salteña from "./images/Salteña.png";
-import Porteña from "./images/Porteña.png";
-import Chicken from "./images/Chicken.png";
-import Criolla from "./images/Criolla.png";
-import Patagonia from "./images/patagonia.png";
-import Product from './components/sections/Product';
+import Acer from "./images/Acer.png";
+import HP from "./images/Hp.png";
+import MSI from "./images/MSI.png";
+import Asus from "./images/Asus.png";
+import Dell from "./images/Dell.png";
+
 
 
 function App() {
 
   const [products, setProducts] = useState([
-    { id: 5, image: Salteña, nombre: "SALTEÑA", precio: 250 },
-    { id: 2, image: Porteña, nombre: "PORTEÑA", precio: 180 },
-    { id: 3, image: Chicken, nombre: "CHICKEN", precio: 150 },
-    { id: 4, image: Criolla, nombre: "CRIOLLA", precio: 200 },
-    { id: 1, image: Patagonia, nombre: "PATAGONIA", precio: 240 },
+    { id: 5, image: Acer, nombre: "Acer Nitro", precio: 250 },
+    { id: 2, image: HP, nombre: "HP Pavillion", precio: 180 },
+    { id: 3, image: MSI, nombre: "MSI", precio: 150 },
+    { id: 4, image: Asus, nombre: "Asus", precio: 200 },
+    { id: 1, image: Dell, nombre: "Dell", precio: 240 },
   ]);
 
   const [cart, setCart] = useState([]);
