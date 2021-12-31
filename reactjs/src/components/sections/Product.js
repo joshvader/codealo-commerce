@@ -26,7 +26,10 @@ const Product = ({ product, cart, setCart, products }) => {
         >
           Agregar +
         </button>
-      ) : (
+        //Detalle del producto
+        
+    ) :
+       (
         <div>
           <button
             className="container__content__burgers--btnDel"
@@ -44,7 +47,9 @@ const Product = ({ product, cart, setCart, products }) => {
           </button>
         </div>
       )}
+      <button className="container__content__burgers--btnDetels">Mas detalle</button>
     </ul>
+    
   );
   
 };

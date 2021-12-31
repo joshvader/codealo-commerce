@@ -43,6 +43,7 @@ function App() {
           <div className="container__header__title">
             <h3 className="container__header__title--text">PCNIEL</h3>
           </div>
+         
 
           {/* CART DE LA CABECERA */}
           <div className="container__header__cartDiv">

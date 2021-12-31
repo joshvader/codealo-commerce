@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+@import url(//db.onlinewebfonts.com/c/0c724f6aa457310440cf8949c615cbd7?family=Star+Jedi);
 * {
   margin: 0;
 }
@@ -21,7 +21,8 @@
 }
 
 .container__header__title--text {
-  font-family: "Arial", sans-serif;
+  font-family: "Star Jedi";
+  background-image: url("../images/LOGOPCNIEL.png");
   cursor: default;
 }
 
@@ -99,6 +100,7 @@
   font-family: "Montserrat", sans-serif;
   color: white;
 }
+
 .container .container__content .container__content__listBurgers {
   display: flex;
   flex-basis: 0;
@@ -134,9 +136,10 @@
 }
 .container .container__content .container__content__burgers .container__content__burgers--nombre, .container .container__content .container__content__burgers .container__content__burgers--precio {
   color: white;
+  font-family: 'Star Jedi';
 }
 .container .container__content .container__content__burgers .container__content__burgers--nombre {
-  font-family: "Alfa Slab One", cursive;
+  font-family: "Verdana", sans-serif;
   font-size: 1.4rem;
 }
 .container .container__content .container__content__burgers .container__content__burgers--precio {
@@ -212,4 +215,16 @@
   height: 20px;
 }
 
-/*# sourceMappingURL=styles.css.map */
+.container__content__burgers--btnDetels{
+  cursor: pointer;
+  color: white;
+  border: 0;
+  margin: 10px;
+  background-color: #a19045;
+  text-shadow: 1px 0px #111;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.4rem;
+  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 2px;
+  padding: 0 10px 0 10px;
+}
