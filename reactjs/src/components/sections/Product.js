@@ -1,5 +1,6 @@
 import React from 'react'
-
+import {useNavigate} from "react-router-dom"
+import AboutUs from '../pages/aboutUs';
 
 const Product = ({ product, cart, setCart, products }) => {
   const { nombre, image, precio, id } = product;
@@ -12,7 +13,8 @@ const Product = ({ product, cart, setCart, products }) => {
     const products = cart.filter((product) => product.id !== id);
     setCart(products);
   };
-
+  //Ruta de navegación para la página de nosotros
+  const navigate= useNavigate();
   return (
     <ul className="container__content__burgers">
       <img className="container__content__burgers--image" src={image}></img>
@@ -47,7 +49,7 @@ const Product = ({ product, cart, setCart, products }) => {
           </button>
         </div>
       )}
-      <button className="container__content__burgers--btnDetels">Mas detalle</button>
+      <button onClick={()=>{navigate("/aboutUs") }} className="container__content__burgers--btnDetels">Mas detalle</button>
     </ul>
     
   );

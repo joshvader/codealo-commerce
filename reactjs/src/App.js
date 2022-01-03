@@ -3,6 +3,7 @@ import Cart from './components/sections/Cart';
 import Carusel from "./components/sections/Carusel";
 import Header from "./components/sections/Header";
 import Product from './components/sections/Product';
+import AboutUs from './components/pages/aboutUs';
 
 import "./styles/styles.css"
 
