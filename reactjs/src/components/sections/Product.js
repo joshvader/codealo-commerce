@@ -49,7 +49,7 @@ const Product = ({ product, cart, setCart, products }) => {
           </button>
         </div>
       )}
-      <button onClick={()=>{navigate("/aboutUs") }} className="container__content__burgers--btnDetels">Mas detalle</button>
+      <button onClick={()=>{navigate("/detalle") }} className="container__content__burgers--btnDetels">Mas detalle</button>
     </ul>
     
   );

@@ -193,7 +193,7 @@
 .container__header__cartDiv--btnCart {
   cursor: pointer;
   background-color: transparent;
-  background-image: url("../images/cart.png");
+  background-image: url("../components/images/cart.png");
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: center;
@@ -205,7 +205,7 @@
 .container__header__menu--button {
   cursor: pointer;
   background-color: transparent;
-  background-image: url("../images/menu.png");
+  background-image: url("../components/images/menu.png");
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: center;
