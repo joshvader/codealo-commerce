@@ -1,10 +1,10 @@
-
-import Acer from "../images/Acer.png";
+import "../pages/product.css"
+import Navbar from "../sections/Navbar"
 const Detalle = () => {
     return (
         
         <section>
-        <div>
+             <Navbar/>
             <div className="col-12">
                 <h1 className="mb-2">LG UltraGear 24GN600-B</h1>
             </div>
@@ -52,11 +52,15 @@ const Detalle = () => {
                                 </ul>
                             </dd>
                         </dl>
-                    </div></div></div>
+                    </div>
             </div>
-
         </div>
+    </div>
+
+        
+    
         </section>
+        
     )
 }
 

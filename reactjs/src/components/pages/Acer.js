@@ -1,5 +1,5 @@
 
-import Acer from "../images/Acer.png";
+
 const Acer = () => {
     return (
         

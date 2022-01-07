@@ -1,5 +1,4 @@
 
-import Acer from "../images/Acer.png";
 const Hp = () => {
     return (
         

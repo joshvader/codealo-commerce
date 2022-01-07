@@ -8,6 +8,7 @@ import Hp from "./components/pages/Hp";
 import "./styles/styles.css";
 
 
+
 const App = () => {
   return (
     <React.Fragment>
@@ -16,8 +17,8 @@ const App = () => {
       
       <Route exact path="/" element={<Home/>}></Route>
       <Route exact path="/detalle" element={<Detalle />}></Route>
-      <Route exact path="/detalle" element={<Acer />}></Route>
-      <Route exact path="/detalle" element={<Hp />}></Route>
+      <Route exact path="/acer" element={<Acer />}></Route>
+      <Route exact path="/hp" element={<Hp />}></Route>
     </Routes>
     </BrowserRouter>
     </React.Fragment>
