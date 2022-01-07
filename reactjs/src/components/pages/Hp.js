@@ -1,6 +1,6 @@
 
 import Acer from "../images/Acer.png";
-const Detalle = () => {
+const Hp = () => {
     return (
         
         <section>
@@ -60,4 +60,4 @@ const Detalle = () => {
     )
 }
 
-export default Detalle
+export default Hp
