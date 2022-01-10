@@ -10,7 +10,7 @@ const Acer = () => {
             <Navbar/>
         <div>
             <div className="col-12">
-                <h1 className="mb-2">Acer Aspire Nitro 5 AN515-55-53E5</h1>
+                <h1 className="mb-4 mb-4 my-5">Acer Aspire Nitro 5 AN515-55-53E5</h1>
             </div>
             <div className="image-gallery-image">
                 <img src="https://publicapi.solotodo.com/products/123783/picture/?width=1000&amp;height=520" />
