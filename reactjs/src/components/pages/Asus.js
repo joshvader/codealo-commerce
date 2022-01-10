@@ -2,7 +2,7 @@
 
 import Navbar from "../sections/Navbar"
 
-const Acer = () => {
+const Asus = () => {
     return (
         
         
@@ -53,4 +53,4 @@ const Acer = () => {
     )
 }
 
-export default Acer
+export default Asus
