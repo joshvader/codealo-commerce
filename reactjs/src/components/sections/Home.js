@@ -68,7 +68,7 @@ const Home = () => {
 
         {/* SECTION FOOTER */}
         <section className="container__footer">
-          <p>PCNIEL 2021 - Todos los derechos reservados</p>
+          <p>PCNIEL 2022 - Todos los derechos reservados</p>
         </section>
         
       </section> 
