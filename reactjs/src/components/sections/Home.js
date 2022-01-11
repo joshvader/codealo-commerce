@@ -12,11 +12,11 @@ import Product from './Product';
 
 const Home = () => {
     const [products, setProducts] = useState([
-        { id: 5, image: Acer, nombre: "Acer Nitro", precio: 250 },
-        { id: 2, image: HP, nombre: "HP Pavillion", precio: 180 },
-        { id: 3, image: MSI, nombre: "MSI", precio: 150 },
-        { id: 4, image: Asus, nombre: "Asus", precio: 200 },
-        { id: 1, image: Dell, nombre: "Dell", precio: 240 },
+        { id: 5, image: Acer, nombre: "Acer Nitro", precio:  969990	 },
+        { id: 2, image: HP, nombre: "HP Pavillion", precio: 1099990	 },
+        { id: 3, image: MSI, nombre: "MSI", precio: 899990 },
+        { id: 4, image: Asus, nombre: "Asus", precio: 999990 },
+        { id: 1, image: Dell, nombre: "Dell", precio: 839990 },
       ]);
     
       const [cart, setCart] = useState([]);
