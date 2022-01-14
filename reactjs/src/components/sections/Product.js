@@ -13,7 +13,7 @@ const Product = ({ product, cart, setCart, products }) => {
   };
   //Eliminar producto
   const delProduct = (id) => {
-    const products = cart.filter((product) => product.id !== id);
+    const products = cart.filter(product => product.id !== id);
     setCart(products);
   };
   //Producto vendido
