@@ -19,6 +19,8 @@ const Detalle = () => {
 
                     <div className="col-12 col-md-6 col-xl-4">
                         <h3>Te invitamos a volver a nuestra tienda</h3>
+                        
+
                         <button className="btn btn-success m-3" onClick={() => { navigate("/") }} >Volver a la página principal</button>                        
                     </div>
 
