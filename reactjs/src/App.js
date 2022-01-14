@@ -7,16 +7,10 @@ import Hp from "./components/pages/Hp";
 import Asus from "./components/pages/Asus";
 import Dell from "./components/pages/Dell";
 import MSI from "./components/pages/MSI";
-import Checkouted from "./components/pages/Checkouted";
+
 
 //Estilos CSS
 import "./styles/styles.css";
-
-
-
-
-
-
 
 const App = () => {
   return (
