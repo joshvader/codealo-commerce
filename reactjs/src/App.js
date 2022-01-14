@@ -7,9 +7,11 @@ import Hp from "./components/pages/Hp";
 import Asus from "./components/pages/Asus";
 import Dell from "./components/pages/Dell";
 import MSI from "./components/pages/MSI";
+import Checkouted from "./components/pages/Checkouted";
 
 //Estilos CSS
 import "./styles/styles.css";
+
 
 
 
@@ -29,6 +31,7 @@ const App = () => {
       <Route exact path="/asus" element={<Asus/>}></Route>
       <Route exact path="/dell" element={<Dell/>}></Route>
       <Route exact path="/msi" element={<MSI/>}></Route>
+      <Route exact paht ="/detalle" element={<Detalle/>}></Route>
       
 
     </Routes>

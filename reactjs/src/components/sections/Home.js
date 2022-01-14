@@ -49,7 +49,7 @@ const Home = () => {
         <section className="container__content">
 
           <div className="container__content__title">
-            <h1>Aprovecha solo por tiempo limitado combos 50% off!</h1>
+            <h1>Aprovecha solo por tiempo limitado estas ofertas Gamers!</h1>
           </div>
 
           <div className="container__content__listBurgers">
