@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/codealo-commerce/static/css/main.4dc75b05.chunk.css",
+    "main.css": "/codealo-commerce/static/css/main.b3a9a2cc.chunk.css",
     "main.js": "/codealo-commerce/static/js/main.6c77fa3e.chunk.js",
     "main.js.map": "/codealo-commerce/static/js/main.6c77fa3e.chunk.js.map",
     "runtime-main.js": "/codealo-commerce/static/js/runtime-main.4f8f6c89.js",
@@ -8,7 +8,7 @@
     "static/js/2.253d92ed.chunk.js": "/codealo-commerce/static/js/2.253d92ed.chunk.js",
     "static/js/2.253d92ed.chunk.js.map": "/codealo-commerce/static/js/2.253d92ed.chunk.js.map",
     "index.html": "/codealo-commerce/index.html",
-    "static/css/main.4dc75b05.chunk.css.map": "/codealo-commerce/static/css/main.4dc75b05.chunk.css.map",
+    "static/css/main.b3a9a2cc.chunk.css.map": "/codealo-commerce/static/css/main.b3a9a2cc.chunk.css.map",
     "static/js/2.253d92ed.chunk.js.LICENSE.txt": "/codealo-commerce/static/js/2.253d92ed.chunk.js.LICENSE.txt",
     "static/media/Acer.5a4b71fd.png": "/codealo-commerce/static/media/Acer.5a4b71fd.png",
     "static/media/Asus.14dc5651.png": "/codealo-commerce/static/media/Asus.14dc5651.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.4f8f6c89.js",
     "static/js/2.253d92ed.chunk.js",
-    "static/css/main.4dc75b05.chunk.css",
+    "static/css/main.b3a9a2cc.chunk.css",
     "static/js/main.6c77fa3e.chunk.js"
   ]
 }
