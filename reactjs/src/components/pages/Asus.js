@@ -13,7 +13,7 @@ const Asus = () => {
 					<h1 className="mb-4 mb-4 my-5">ASUS TUF Dash F15 FX516PC-HN021T [90NR05U1-M00580]</h1>
 				</div>
 				<div className="image-gallery-image">
-					<img src="https://publicapi.solotodo.com/products/119108/picture/?width=1000&amp;height=300" />
+					<img src="https://publicapi.solotodo.com/products/119108/picture/?width=1000&amp;height=250" />
 
 					<div id="technical-specifications-container" className="content-card"><div class="row"><div class="col-12 col-md-6 col-xl-4">
 						<h3>Características</h3>
