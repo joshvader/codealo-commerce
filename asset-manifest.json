@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/codealo-commerce/static/css/main.4dc75b05.chunk.css",
-    "main.js": "/codealo-commerce/static/js/main.bdb8d43a.chunk.js",
-    "main.js.map": "/codealo-commerce/static/js/main.bdb8d43a.chunk.js.map",
+    "main.js": "/codealo-commerce/static/js/main.6c77fa3e.chunk.js",
+    "main.js.map": "/codealo-commerce/static/js/main.6c77fa3e.chunk.js.map",
     "runtime-main.js": "/codealo-commerce/static/js/runtime-main.4f8f6c89.js",
     "runtime-main.js.map": "/codealo-commerce/static/js/runtime-main.4f8f6c89.js.map",
-    "static/js/2.9e2e75f2.chunk.js": "/codealo-commerce/static/js/2.9e2e75f2.chunk.js",
-    "static/js/2.9e2e75f2.chunk.js.map": "/codealo-commerce/static/js/2.9e2e75f2.chunk.js.map",
+    "static/js/2.253d92ed.chunk.js": "/codealo-commerce/static/js/2.253d92ed.chunk.js",
+    "static/js/2.253d92ed.chunk.js.map": "/codealo-commerce/static/js/2.253d92ed.chunk.js.map",
     "index.html": "/codealo-commerce/index.html",
     "static/css/main.4dc75b05.chunk.css.map": "/codealo-commerce/static/css/main.4dc75b05.chunk.css.map",
-    "static/js/2.9e2e75f2.chunk.js.LICENSE.txt": "/codealo-commerce/static/js/2.9e2e75f2.chunk.js.LICENSE.txt",
+    "static/js/2.253d92ed.chunk.js.LICENSE.txt": "/codealo-commerce/static/js/2.253d92ed.chunk.js.LICENSE.txt",
     "static/media/Acer.5a4b71fd.png": "/codealo-commerce/static/media/Acer.5a4b71fd.png",
     "static/media/Asus.14dc5651.png": "/codealo-commerce/static/media/Asus.14dc5651.png",
     "static/media/Dell.0daf4f3a.png": "/codealo-commerce/static/media/Dell.0daf4f3a.png",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4f8f6c89.js",
-    "static/js/2.9e2e75f2.chunk.js",
+    "static/js/2.253d92ed.chunk.js",
     "static/css/main.4dc75b05.chunk.css",
-    "static/js/main.bdb8d43a.chunk.js"
+    "static/js/main.6c77fa3e.chunk.js"
   ]
 }
