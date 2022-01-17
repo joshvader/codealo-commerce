@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/codealo-commerce/static/css/main.b3a9a2cc.chunk.css",
-    "main.js": "/codealo-commerce/static/js/main.ab2c31a4.chunk.js",
-    "main.js.map": "/codealo-commerce/static/js/main.ab2c31a4.chunk.js.map",
+    "main.js": "/codealo-commerce/static/js/main.178d47a6.chunk.js",
+    "main.js.map": "/codealo-commerce/static/js/main.178d47a6.chunk.js.map",
     "runtime-main.js": "/codealo-commerce/static/js/runtime-main.4f8f6c89.js",
     "runtime-main.js.map": "/codealo-commerce/static/js/runtime-main.4f8f6c89.js.map",
     "static/js/2.253d92ed.chunk.js": "/codealo-commerce/static/js/2.253d92ed.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.4f8f6c89.js",
     "static/js/2.253d92ed.chunk.js",
     "static/css/main.b3a9a2cc.chunk.css",
-    "static/js/main.ab2c31a4.chunk.js"
+    "static/js/main.178d47a6.chunk.js"
   ]
 }
