@@ -10,6 +10,8 @@ import Cart from './Cart';
 import Product from './Product';
 
 
+
+
 const Home = () => {
     const [products, setProducts] = useState([
         { id: 5, image: Acer, nombre: "Acer Nitro", precio:  969990	 },
